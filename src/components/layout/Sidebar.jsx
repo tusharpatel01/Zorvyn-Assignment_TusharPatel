@@ -225,7 +225,7 @@ export default function Sidebar({ mobileOpen, onClose }) {
               border: role === "admin" ? "1px solid rgba(0,255,135,0.2)" : "1px solid rgba(96,165,250,0.2)",
             }}
           >
-            {currentUser.avatar}
+            {currentUser.name.slice(0, 2).toUpperCase()}  
           </div>
           <div className="min-w-0 flex-1">
             <p
