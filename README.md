@@ -4,8 +4,8 @@ It is a Finance Dashboard UI only the frontend portion, where you will manage yo
 A modern, interactive personal finance dashboard built with **React** and **Tailwind CSS**. Designed for clarity, performance, and a polished user experience — without looking like a generic template.
 
 GITHUB LINK : https://github.com/tusharpatel01/Zorvyn-Assignment_TusharPatel
-
-Live Link : https://zorvyn-assignment-tushar-patel-8hcxatisa.vercel.app/
+this is the updated live link please go through it.
+Live Link : https://zorvyn-assignment-tushar-patel.vercel.app/    
 
 ---
 
